@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1073204524417",
+    "project_id": "eventfinder-fb1a0",
+    "storage_bucket": "eventfinder-fb1a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073204524417:android:782333bfc523f77f75e480",
+        "android_client_info": {
+          "package_name": "com.eventfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073204524417-a5ljr5jttkq88qlfdo8aufd34djrb6a7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eventfinder",
+            "certificate_hash": "9607ad13eedf9429d9134a30951dce863ace7aed"
+          }
+        },
+        {
+          "client_id": "1073204524417-euomepi28lq376681u5jtp6jp4qvaeuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApAwZUsdCn0hKh516-DEwQvL1kNCrVajI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073204524417-euomepi28lq376681u5jtp6jp4qvaeuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
